@@ -1,8 +1,13 @@
-# individual-project
+# Alquran Pedia
 
 ##Notes
-1. Ide aplikasinya tidak boleh sama (cantumkan juga idenya di deskripsi PR)
-2. Apabila memiliki .env, cantumkan di deskripsi PR
-3. Apabila aplikasinya dideploy(tapi ini ga ada direquirement, jadi opsional), cantumkan juga di deskripsi PR
-4. Wajib SPA
-5. Deadline Minggu 18.00
+* Frontent with Vue Js
+* Backend  Express, Postgress, Sequelize, jwt, bcryptJs, 
+* 3rt Party Api
+
+Utilities
+* register
+* login
+* Get Surah
+* Detail Surah
+* Play Surah
